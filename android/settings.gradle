@@ -1,0 +1,3 @@
+rootProject.name = 'Registry'
+
+include ':app'
